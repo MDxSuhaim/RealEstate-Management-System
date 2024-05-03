@@ -2,6 +2,13 @@
 
 ## Screenshots
 Include relevant screenshots here, such as the landing page, admin dashboard, user interface, and any other significant features of the IMS.
+![Picture 1](https://github.com/MDxSuhaim/RealEstate-Management-System/assets/134042586/ebf1b6c3-8e58-4e7c-aa3b-19584fd38c1d)
+![Picture 2](https://github.com/MDxSuhaim/RealEstate-Management-System/assets/134042586/0ce087fb-f1aa-4af5-8559-432ff7245831)
+![Picture 3](https://github.com/MDxSuhaim/RealEstate-Management-System/assets/134042586/3ecc15ce-8add-4588-af53-ac5646b746ad)
+![Picture 4](https://github.com/MDxSuhaim/RealEstate-Management-System/assets/134042586/c82d32ee-46c4-4c84-90e4-4bb6527962c2)
+![Picture 5](https://github.com/MDxSuhaim/RealEstate-Management-System/assets/134042586/af1325c1-ed8d-48ba-ae23-c23debc77fb1)
+![Picture 6](https://github.com/MDxSuhaim/RealEstate-Management-System/assets/134042586/39bd2d88-dbcd-4862-9b39-135541dd3650)
+![Picture 7](https://github.com/MDxSuhaim/RealEstate-Management-System/assets/134042586/ce480048-b782-47d4-8353-4d03283e947a)
 
 ## Abstract
 The Real Estate Inventory Management System (IMS) is developed to address challenges in property asset management. It provides a centralized platform for real-time data integration and streamlined communication between stakeholders, aiming to enhance inventory management practices in the real estate industry.
