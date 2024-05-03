@@ -1,9 +1,12 @@
 # Real Estate Inventory Management System (IMS) - README
 
-## 1. Abstract
-The Real Estate Inventory Management System (IMS) is designed to address the challenges encountered in property asset management by providing a centralized platform for real-time data integration and streamlined communication between stakeholders. This document outlines the key features, objectives, system analysis, requirements, system design, and database design of the IMS.
+## Screenshots
+Include relevant screenshots here, such as the landing page, admin dashboard, user interface, and any other significant features of the IMS.
 
-## 2. Introduction
+## Abstract
+The Real Estate Inventory Management System (IMS) is developed to address challenges in property asset management. It provides a centralized platform for real-time data integration and streamlined communication between stakeholders, aiming to enhance inventory management practices in the real estate industry.
+
+## Introduction
 ### Objective:
 The primary objective is to streamline property tracking processes, optimize resource allocation, and facilitate informed decision-making in the real estate market.
 
@@ -11,14 +14,14 @@ The primary objective is to streamline property tracking processes, optimize res
 - **Admin Module**: Facilitates secure login validation, property management operations, owner and customer management, real-time availability filtering, and comprehensive reporting.
 - **User Module**: Grants access to the landing page, provides distinct sections for property owners and customers, offers dynamic forms, and integrates AI assistant for enhanced communication.
 
-## 3. System Analysis
+## System Analysis
 ### Problem Definition:
-The challenges in inventory management include inefficient tracking systems, suboptimal resource allocation, and lack of streamlined communication channels.
+Challenges include inefficient tracking systems, suboptimal resource allocation, and lack of streamlined communication channels.
 
 ### Proposed System:
 The IMS offers a centralized platform for real-time data integration, comprehensive reporting, streamlined communication channels, and technology integration to revolutionize inventory management practices.
 
-## 4. Requirement Analysis
+## Requirement Analysis
 ### Hardware:
 - Processor: INTEL i3 CORE
 - RAM: 2GB
@@ -29,15 +32,8 @@ The IMS offers a centralized platform for real-time data integration, comprehens
 - Database: MYSQL
 - IDE: Visual Studio Code
 - Connection technology: PHP/JAVASCRIPT/XAMP
-
-## 5. System Design and Specification
-### ER-Diagram:
-![ER Diagram](link_to_er_diagram)
-
-### DFD - Data Flow Diagram:
-Level 1 and Level 2 DFDs illustrate the data flow within the system.
-
-## 6. Database Design
+  
+## Database Design
 ### Data Dictionary:
 Details the structure of each table in the database, including data types and maximum lengths for each column.
 
@@ -47,7 +43,7 @@ Explains the relationships between different entities in the IMS database for ef
 ### Tables:
 Describes the tables used in the database design, including their descriptions and columns.
 
-## 7. Testing and Implementation
+## Testing and Implementation
 ### Testing:
 Explains the testing process, including unit testing, integration testing, system testing, user acceptance testing (UAT), and security testing.
 
